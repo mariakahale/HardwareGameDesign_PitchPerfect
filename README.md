@@ -2,7 +2,7 @@
 
 ![FPGA](https://img.shields.io/badge/FPGA-d7bde2?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-aed6f1?style=flat-square)
-![Intel Quartus](https://img.shields.io/badge/Intel Quartus-f5b7b1?style=flat-square)
+![Intel Quartus](https://img.shields.io/badge/IntelQuartus-f5b7b1?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-d5dbdb?style=flat-square)
 ![Modelsim](https://img.shields.io/badge/Modelsim-aed6f1?style=flat-square)
 ![VGA](https://img.shields.io/badge/VGA-f5b7b1?style=flat-square)
