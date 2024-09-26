@@ -1,9 +1,9 @@
 # Hardware Game Design (PitchPerfect)
 
-![FPGA](https://img.shields.io/badge/FPGA-purple?style=flat-square)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-red?style=flat-square)
-![Verilog](https://img.shields.io/badge/Verilog-grey?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-d7bde2?style=flat-square)
+![C++](https://img.shields.io/badge/C++-aed6f1?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-f5b7b1?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-d5dbdb?style=flat-square)
 
 ECE241 Project - Audio recognition game using verilog, FPGA, VGA
 
