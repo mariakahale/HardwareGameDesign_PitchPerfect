@@ -1,4 +1,5 @@
-# PitchPerfect
+# Hardware Game Design (PitchPerfect)![image](https://github.com/user-attachments/assets/32a745a7-70d1-4566-b756-04f851c8f1e8)
+
 ECE241 Project - Audio recognition game using verilog, FPGA, VGA
 
 
