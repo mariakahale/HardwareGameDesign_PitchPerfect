@@ -19,7 +19,7 @@ Our first successful attempt at displaying a .mif file onto the VGA. Don't mind 
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/c11749b1-a055-4841-b5ae-f57cde35e811"><img width="437" alt="image" src="https://github.com/user-attachments/assets/41a4ac26-f449-48ad-b05e-834813f5ebef">
 
-We had two main finite state machines, one to handle the states for the VGA screens, and another to handle the incoming raw data from the GPIO pins from the keyboard. 
+We had two main finite state machines, one to handle the states for the VGA screen, and another to handle the incoming raw data from the GPIO pins from the keyboard. 
 
 
 
