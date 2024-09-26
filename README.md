@@ -15,4 +15,5 @@ I led my team with my final project for a Digital Systems course (ECE241)
 -	Designed and implemented a musical training game, requiring players to match pitches with corresponding keys on a keyboard; using a Cyclone V FPGA programmed in Verilog for the finite state machines and the game algorithm.
 -	Integrated VGA, audio output, and external memory using Intel Quartus and Modelsim to create an engaging game experience.
 
-![Alt Text](https://link-to-gif.com/your-gif.gif)
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/9171bb71-eb0f-44cc-85ff-aef6ce5bf3cc">
+
